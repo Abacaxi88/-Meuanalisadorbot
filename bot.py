@@ -2,7 +2,7 @@ import telebot
 import requests
 from time import sleep
 
-TOKEN = '7684868949:AAH8CixcXqtgC40_ulM01XNK3uggEWLuHYs'
+TOKEN = '7535321372:AAEJE01dWeIpo-uxf9vNW9BDb5OUpY4rW2E'
 bot = telebot.TeleBot(TOKEN)
 
 @bot.message_handler(commands=['start'])
