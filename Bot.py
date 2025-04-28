@@ -12,7 +12,7 @@ logging.basicConfig(
     level=logging.INFO
 )
 
-# Token do bot
+# 8180464376:AAHistnIPOrFPmPOrqpcwxTAFbusqllv05g
 TOKEN = os.getenv("TOKEN")
 
 # Funções do Bot
